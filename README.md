@@ -1,6 +1,6 @@
-# Realm Warriors - Action Role-Playing Game
+# Realm Warriors - Battle Statistics Simulator
 
-**Welcome to Realm Warriors - An Action Role-Playing Game!**
+**Welcome to Realm Warriors - A Battle Statistics Simulator!**
 
 ## Table of Contents
 1. [Introduction](#introduction)
