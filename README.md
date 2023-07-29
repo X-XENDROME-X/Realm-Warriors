@@ -11,23 +11,20 @@
 6. [How to Play](#how-to-play)
 
 ## Introduction
-Realm Warriors is an exciting action role-playing game that allows players to immerse themselves in a fantasy world filled with powerful heroes. In this game, you can create your guild of heroes, each with unique abilities and skills. The heroes can either be mages, magicians capable of casting powerful spells, or fighters, skilled ranged or melee combatants.
+Realm Warriors is an exciting battle statistics simulator that allows you to analyze powerful heroes in a fantasy world. Create and manage your guild of heroes, each with unique abilities and skills. The heroes can be mages, magicians with potent spells, fighters, and skilled ranged or melee combatants.
 
 ## Features
-- Create and manage your guild of heroes.
-- Choose from a variety of heroes, including mages and fighters, each with their own characteristics.
-- Calculate combat points for your heroes based on their stats and equipment.
+- Calculate and analyze combat points for your heroes based on their stats and equipment.
 - Check how many heroes in your guild have combat points above a specific threshold.
-- Engage in thrilling battles and explore an enchanting fantasy world.
-- Equip heroes with powerful weapons to enhance their abilities.
-- Enjoy a user-friendly menu-driven interface for easy gameplay.
+- Explore the combat power of mages with mana-boosted abilities and fighters with armour and attack prowess.
+
 
 ## Getting Started
 Follow these simple steps to get started with Realm Warriors:
 
 1. Clone the repository to your local machine using `git clone`.
 2. Compile the Java code using a Java compiler, e.g., `javac Assignment5.java`.
-3. Run the game using `java Assignment5`.
+3. Run the game using `Java Assignment5`.
 4. Follow the on-screen instructions to play the game and manage your guild of heroes.
 
 ## Gameplay
